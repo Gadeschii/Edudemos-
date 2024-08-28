@@ -22,8 +22,8 @@ const int OFFSET = 75;
 Servo myServo; // Creates a Servo object
 
 // WiFi credentials
-const char* ssid = "WorkinCholas";
-const char* password = "WiC!2023";
+const char* ssid = "Wifi Company";
+const char* password = "PutYourPasswordHere";
 
 void setup() {
   Serial.begin(115200); // Start serial communication at 115200 baud rate
